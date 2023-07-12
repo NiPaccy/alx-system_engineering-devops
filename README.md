@@ -1,2 +1,1 @@
-This repository is about shell basics
-
+Devops shell abd Bash projects
